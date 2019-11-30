@@ -1,5 +1,4 @@
-This is a kickstart app for every react app, with the following features: 
-* Across the app data sharing(Context API)
-* Navigation
-* Url Calls
-* Looping through the objects
+An app to showcase monotrome
+
+
+![Image description](https://i.ibb.co/PNWddVx/Screenshot-2019-11-30-at-11-28-17-PM.png)
